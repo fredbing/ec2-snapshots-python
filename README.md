@@ -1,2 +1,2 @@
-# snapshotalyzer-3000
-Project to manage AWS EC2 instance snapshots
+# ec2-snapshots-python
+Project to manage AWS EC2 instance snapshots with python script
